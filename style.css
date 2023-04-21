@@ -99,6 +99,8 @@ h5 {
 }
 
 ul.socialList {
+    margin: 0px;
+    padding: 0px;
     list-style: none;
 }
 
